@@ -9,7 +9,7 @@ setTimeout(() => {
     entrance.style.display= "none"
     container.style.display= "flex"
     footer.style.display= "flex"
-}, 1);
+}, 3000);
 
 btn.addEventListener("click", ()=>{
     btn.style.display= "none"
